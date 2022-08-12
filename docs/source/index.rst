@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+Welcome to the Periurban Global Forum Documentation!
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
